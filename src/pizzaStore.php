@@ -1,8 +1,8 @@
 <?php
 
-namespace lw2\src;
+namespace Vala\Lw3;
 
-use lw2\src\Pizza;
+use Vala\lw3\Pizza;
 
 abstract class PizzaStore
 {
